@@ -585,6 +585,11 @@
 - [SMA-TEGAS Digital Innovation Hub Miri](https://www.innovatesarawak.com/) - A-2-29 - A-2-30 - A-2-31A and A-2-31B, Second Floor, Miri Times Square @ Marina ParkCity, Miri
 - [The Hills](https://thehills.my/) - No 8, UG Floor, The Hills Jalan Bukit Mata, Interhill Place, Kuching
 
+  ## Pakistan
+
+### Islamabad
+- [Twinhub](https://twinhub.pk/) - 4th floor, The Interlace, I-8 Markaz
+  
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
